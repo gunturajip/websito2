@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /websito2/dummy.html
+Disallow: /images/dummy.html
