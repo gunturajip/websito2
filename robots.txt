@@ -1,2 +1,2 @@
-User-agent: *
-Disallow: /dummy.html
+user-agent: *
+disallow: /websito2/dummy.html
