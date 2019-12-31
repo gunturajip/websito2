@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+body{
+    text-align: center;
+}
+body img{
+    height: 700px;
+    width: 1400px;
+}
+.header{
+    background: rgb(113, 120, 190);
+}
+.header ul li{
+    list-style: none;
+}
+.header ul li a{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+.header ul li a:hover{
+    color: rgb(171, 180, 41)
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 15px;
+    text-align: center;
+    border-spacing: 5px;
+
+}
